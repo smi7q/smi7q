@@ -70,7 +70,5 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smi7q&theme=dark)
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/smi7q/smi7q/output/github-contribution-grid-snake.svg" />
-
 ![snake gif](https://github.com/smi7q/smi7q/blob/output/github-snake-dark.svg)
 
