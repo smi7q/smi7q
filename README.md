@@ -9,15 +9,6 @@
 
 ###
 
-
-
-<div align="left">
-</div>
-
-###
-
-
-
 <h2 align="left">Main Tools Used</h2>
 
 ###
@@ -25,16 +16,12 @@
 <p align="left">Operating Systems: Windows 11 and Linux (Ubuntu/Arch/EndeavourOS)<br><br>IDEs & Editors: VSCode, VSCodium, NeoVim<br><br>Design & Graphics: Figma, Krita, Blender<br><br>Terminals & Shells: PowerShell 7 with WSL (Windows), Linux Terminal, Kitty Terminal (macOS)</p>
 
 ###
+
 <h2 align="left">Current Projects</h2>
 
 ###
 
 <p align="left">Completing the Boot.dev Back-End Developer Path and Meta Back-End Developer Path courses<br><br>Developing a full-stack web application portfolio project<br><br>Building side Python and TypeScript projects to strengthen programming and problem-solving skills</p>
-
-###
-
-
-<p align="left"></p>
 
 ###
 
@@ -76,3 +63,14 @@
 </div>
 
 ###
+
+<h2 align="left">📊 GitHub Stats</h2>
+
+###
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smi7q&theme=dark)
+
+<!-- Contribution Graph -->
+[![My GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=smi7q&theme=react-dark)](https://github.com/smi7q)
+
