@@ -18,6 +18,16 @@
 
 ###
 
+
+
+<h2 align="left">Main Tools Used</h2>
+
+###
+
+<p align="left">Operating Systems: Windows 11 and Linux (Ubuntu/Arch/EndeavourOS)<br><br>IDEs & Editors: VSCode, VSCodium, NeoVim<br><br>Design & Graphics: Figma, Krita, Blender<br><br>Terminals & Shells: PowerShell 7 with WSL (Windows), Linux Terminal, Kitty Terminal (macOS)</p>
+
+###
+
 ###
 
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTNpejJtMm42M3NhdGIwdjN0ejlzZ2M5M3I3bmsxczVnd2xtaGllbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif"  />
