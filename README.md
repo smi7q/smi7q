@@ -1,4 +1,27 @@
-<h2 align="left">Hi 👋, I'm Sami</h2>
+<h1 align="left">Welcome to my Humble Abode</h1>
+
+###
+
+<p align="left">Hello! My name's Sam Aqeel, and I'm a passionate software engineer whose primary interests are in front-end and back-end development, full-stack applications, and data management.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">.I’m currently studying Software Engineering at OSTİM Teknik Üniversitesi.<br><br> .I started programming at a young age with HTML, CSS, and JavaScript, and developed a strong passion for programming once I learned Python, SQL, and React in college.<br><br>.I also enjoy building and troubleshooting PCs</p>
+
+###
+
+<h2 align="left"></h2>
+
+###
+
+<div align="left">
+</div>
+
+###
 
 ###
 
