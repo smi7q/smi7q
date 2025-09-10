@@ -68,9 +68,8 @@
 
 ###
 
-<!-- GitHub Streak -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smi7q&theme=dark)
 
-<!-- Contribution Graph -->
-[![My GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=smi7q&theme=react-dark)](https://github.com/smi7q)
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/smi7q/smi7q/output/github-contribution-grid-snake.svg" />
+
 
