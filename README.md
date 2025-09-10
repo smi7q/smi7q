@@ -25,6 +25,13 @@
 <p align="left">Operating Systems: Windows 11 and Linux (Ubuntu/Arch/EndeavourOS)<br><br>IDEs & Editors: VSCode, VSCodium, NeoVim<br><br>Design & Graphics: Figma, Krita, Blender<br><br>Terminals & Shells: PowerShell 7 with WSL (Windows), Linux Terminal, Kitty Terminal (macOS)</p>
 
 ###
+<h2 align="left">Current Projects</h2>
+
+###
+
+<p align="left">Completing the Boot.dev Back-End Developer Path and Meta Back-End Developer Path courses<br><br>Developing a full-stack web application portfolio project<br><br>Building side Python and TypeScript projects to strengthen programming and problem-solving skills</p>
+
+###
 
 
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTNpejJtMm42M3NhdGIwdjN0ejlzZ2M5M3I3bmsxczVnd2xtaGllbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif"  />
